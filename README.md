@@ -13,11 +13,11 @@
 ---
 
 ### :woman_technologist: About Me :
-- 🌱 I’m currently learning **Django framework and GO language.**
+-  I’m currently learning **GO language.**
 
-- 👯 I’m looking to collaborate on **new python and C projects.**
+-  I’m looking to collaborate on **new python and C projects.**
 
-- 🤝 I’m looking for help with **Programming.**
+-  I’m looking for help with **Programming.**
 
 - 💬 Ask me about **Python and C languages.**
 
