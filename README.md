@@ -13,9 +13,8 @@
 ---
 
 ### :woman_technologist: About Me :
--  I’m currently learning **GO language.**
 
--  I’m looking to collaborate on **new python and C projects.**
+-  I’m looking to collaborate on **Python and C rpogramming projects.**
 
 -  I’m looking for help with **Programming.**
 
