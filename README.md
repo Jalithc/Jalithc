@@ -13,7 +13,6 @@
 ---
 
 ### :woman_technologist: About Me :
-
 -  I’m looking to collaborate on **Python and C rpogramming projects.**
 
 -  I’m looking for help with **Programming.**
