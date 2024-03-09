@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jalith C</h1>
 
-<h3 align="center">A passionate developer from Sri Lanka</h3>
+<h3 align="center">A passionate developer</h3>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
