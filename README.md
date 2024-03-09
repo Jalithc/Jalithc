@@ -1,28 +1,3 @@
-<h1 align="center">Hi 👋, I'm Jalith C</h1>
-
-<h3 align="center">A passionate developer</h3>
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Jalithc&style=flat-square&color=blue" alt=""/></p>
-
-<p align="left"></p>
-
----
-
-### :woman_technologist: About Me :
--  I’m looking to collaborate on **Python and C programming projects.**
-
--  I’m looking for help with **Programming.**
-
-- 💬 Ask me about **Python and C languages.**
-
-<p align="left">
-</p>
-
----
 
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jalithc&theme=dark)](https://git.io/streak-stats)
