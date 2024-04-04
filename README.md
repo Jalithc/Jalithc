@@ -1,9 +1,10 @@
 --- 
 ### My Github Stats:
 
-![Jalithc's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jalithc&show_icons=true&theme=dark)
+![Jalithc's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jalithc&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jalithc&theme=dark)](https://github.com/Jalithc/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jalithc&theme=dracula)](https://github.com/Jalithc/github-readme-stats)
+
 
 ---
 
