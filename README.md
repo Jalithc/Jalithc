@@ -5,7 +5,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jalithc&theme=dracula)](https://github.com/Jalithc/github-readme-stats)
 
-
 ---
 
 <h3 align="left">Languages and Tools:</h3>
