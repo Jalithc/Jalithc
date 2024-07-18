@@ -4,8 +4,7 @@
 
 --- 
 ### My Github Stats:
-
-![Jalithc's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jalithc&show_icons=true&theme=dracula)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jalithc&theme=radical)](https://git.io/streak-stats)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jalithc&theme=radical)
