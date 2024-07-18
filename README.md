@@ -6,7 +6,7 @@
 ### My Github Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jalithc&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jalithc&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=Jalithc&theme=algolia&show_icons=true)](https://github.com/Jalithc)
 
 ---
 
