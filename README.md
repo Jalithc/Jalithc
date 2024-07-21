@@ -5,7 +5,7 @@
 
 --- 
 ### My Github Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jalithc&layout=compact&theme=vision-friendly-dark)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jalithc&layout=compact&theme=radical)]
 
 ---
 
